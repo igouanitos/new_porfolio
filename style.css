@@ -1,7 +1,5 @@
 .gradient_bg {
-	background: linear-gradient(-45deg, #ec3427, #ece91c, #23a6d5, #45f111);
-	background-size: 400% 400%;
-	animation: gradient 15s ease infinite;
+	background: #DCF2F1;
 }
 #footer{
     bottom: 0;
@@ -9,3 +7,12 @@
 .header{
 	height: 30%;
 }
+.sticky {
+	position: fixed;
+	top: 0;
+	width: 100%;
+  }
+  nav{
+    background-color: #DCF2F1;
+    color: aquamarine;
+  }
