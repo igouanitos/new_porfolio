@@ -16,3 +16,21 @@
     background-color: #DCF2F1;
     color: aquamarine;
   }
+  #main{
+    margin-top: 80px;
+  }
+  h5{
+    color:gray;
+  }
+  .rounded{
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  .row{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+  }
