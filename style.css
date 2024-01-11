@@ -1,6 +1,7 @@
 .gradient_bg {
-	background: #DCF2F1;
+  background-color: #BFC0C2;
 }
+
 #footer{
     bottom: 0;
 }
@@ -13,14 +14,15 @@
 	width: 100%;
   }
   nav{
-    background-color: #DCF2F1;
-    color: aquamarine;
+    background-color: #BFC0C2;
+    color: #BFC0C2;
+    font-weight: bolder;
   }
   #main{
     margin-top: 80px;
   }
   h5{
-    color:gray;
+    color:#BFC0C2;
   }
   .rounded{
     margin-bottom: 20px;
