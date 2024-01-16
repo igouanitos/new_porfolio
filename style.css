@@ -46,3 +46,7 @@
   .last{
     padding-bottom: 20px;
   }
+  .logo{
+    max-width: 100%;
+    height: auto;
+  }
